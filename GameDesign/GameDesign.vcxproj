@@ -19,7 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="JumpCommand.cpp" />
     <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Command.h" />
+    <ClInclude Include="JumpCommand.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{0312D13C-382D-4F8C-A90C-4CB0C9581951}</ProjectGuid>
