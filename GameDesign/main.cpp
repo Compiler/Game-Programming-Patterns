@@ -1,9 +1,6 @@
 #pragma once
 
 #include <iostream>
-#include "Person.h"
-
-#include "Girl.h"
 
 int main(void) {
 
